@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Sewain</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_category">CategoryActivity</string>
+    <string name="place_name">Nama Tempat</string>
+    <string name="place_desc">Tempat deskripsi</string>
+    <string name="place_address">Alamat Tempat</string>
+    <string name="simpan">Map</string>
+    <string name="detail_nama">The Galton Hotel</string>
+
+    <string name="nama_kost">nama kost</string>
+    <string name="alamat">Alamat : jln mutira no 8</string>
+    <string name="keterangan">kos murah meriah</string>
+    <string name="stock_kost">tersedia 2 jenis kamar</string>
+    <string name="pemilik">pemilik : muh alfalah</string>
+    <string name="jenis_kamar">kamar tipe : A1</string>
+    <string name="room_price">Rp. 4.000.000 / Tahun</string>
+    <string name="facilities">kamar madi dalam, tv, ac, tempat cuci piring, kulkas</string>
+    <string name="detail">Detail</string>
+    <string name="_735">Rp.40.000.000</string>
+    <string name="stock_hanya_5_buah">tinggal 3 kamar</string>
+    <string name="content_text">Tempat kost ini merupakan kawasan yang strategis karena dekat dengan kampus dan         pusat perbelanjaan</string>
+    <string name="spesifikasi">Deskripsi</string>
+    <string name="f_umum">Fasilitas</string>
+    <string name="f_umum_desc">
+        2 tempat tidur lengkap dgn bantal\n
+        1 kamar mansi dalam\n
+        1 lemari\n
+        Termasuk Listrik\n
+        Termasuk Air\n
+    </string>
+    <string name="size">Ukuran</string>
+    <string name="content_specs_size">4 X 4 m</string>
+    <string name="lama_tinggal">Lama Tinggal</string>
+    <string name="lama_tinggal_desc">1 Tahun</string>
+    <string name="di_jual_oleh">Contact</string>
+    <string name="hubungi">Hubungi</string>
+    <string name="lihat_kost">Lihat Kost</string>
+    <string name="favorites">Favorites</string>
+    <string name="tidak_ada_data">Tidak ada data</string>
+    <string name="example_search_kost">cari berdasarkan nama atau alamat</string>
+    <string name="load_more">lebih banyak</string>
+    <string name="phone">Masa kecil Laura dihabiskan di panti , dengan Arya sebagai sahabat satu-satunya.Ketika diadopsi dan harus meninggalkan Indonesia, Arya berjanji akan kembali ke panti untuk menjemput dan menikahi Laura saat dewasa kelak.Seiring waktu berlalu, banyak keluarga yang juga ingin mengadopsi Laura,tapi ditolaknya. Gadis itu bertahan tinggal di panti sembari bekerja untuk membiayai kuliahnya. Dan… tetap menunggu Arya kembali. Namun, kehadiran Daniel,putra pemilik perusahaan tempat Laura bekerja, membuat gadis itu kelimpungan. Sikap Daniel yang arogan berhasil mengguncang dunia Laura yang tenang, mengisi seluruh sudut pikirannya. Pria itu mampu mengalihkan ingatan Laura terhadap janji Arya. Hingga pada satu titik, Laura bertanya-tanya.Haruskan ia tetap menunggu janji Arya atau jatuh cinta pada pria lain untuk pertama kalinya?</string>
+    <string name="email">galtonhotelbaubau@gmail.com</string>
+    <string name="pariwisata_baubau">Pariwisata Bau-Bau</string>
+    <string name="buku">Buku</string>
+    <string name="cari">Cari</string>
+    <string name="tentang">Tentang</string>
+    <string name="yuhu">Tentang</string>
+    <string name="sewa">sewa</string>
+
+
+</resources>
